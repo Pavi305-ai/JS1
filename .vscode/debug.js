@@ -1,0 +1,11 @@
+let foodItemName = "Pizza";
+console.log(foodItemName);
+debugger;
+let deliveryLocation = "Delhi";
+console.log(deliveryLocation);
+debugger;
+let estimationTime = "20 mins";
+console.log(estimationTime);
+debugger;
+let isDeliveryAvailable = true;
+console.log(isDeliveryAvailable);
